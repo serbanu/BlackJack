@@ -1,0 +1,13 @@
+			
+			
+				    BlackJack
+				-the battle plan-
+								
+	Player:
+	-primeste 2 carti de joc;
+	-daca primeste un 'As' verifica daca suma dintre 'As' si cealalta care
+este mai mare decat 6 (valoarea 'As-ului' este 1 pentru adunare);
+		*daca suma este mai mare, atunci cartea 'As' se transforma in '11'
+		*daca nu, ramane la valoare '1'
+	-jucatorul trebuie sa se opreasca atunci cand suma cartilor sale este 
+mai mare decat 16;
